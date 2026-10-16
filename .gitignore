@@ -1,0 +1,27 @@
+# =================l=======================
+# IDE & Editors (IntelliJ IDEA, Android Studio, Xcode)
+# ========================================
+.idea/
+*.iml
+.gradle/
+build/
+app/build/
+.DS_Store
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+DerivedData/
+.swiftpm/
+
+# ========================================
+# Sensitive Data & Environment Configurations
+# ========================================
+.env
+local.properties
+*.local
+
+# ========================================
+# OS Generated Files
+# ========================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
