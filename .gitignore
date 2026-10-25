@@ -17,6 +17,7 @@ DerivedData/
 # ========================================
 .env
 local.properties
+local.properties.example
 *.local
 
 # ========================================
